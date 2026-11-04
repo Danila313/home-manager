@@ -21,7 +21,7 @@ flowchart TD
 | Language       | TypeScript                             | [ADR-001](adr/001-nextjs-full-stack.md) |
 | Database       | PostgreSQL                             | [ADR-002](adr/002-postgresql.md)        |
 | ORM            | Prisma                                 | [ADR-003](adr/003-prisma.md)            |
-| Authentication | To be confirmed                        | [ADR-004](adr/004-authentication.md)    |
+| Authentication | Better Auth                            | [ADR-004](adr/004-authentication.md)    |
 | File storage   | To be confirmed                        | [ADR-005](adr/005-document-storage.md)  |
 | Validation     | Zod, React Hook Form                   | [ADR-006](adr/006-zod-validation.md)    |
 | UI             | Tailwind CSS, shadcn/ui, Recharts      |                                         |

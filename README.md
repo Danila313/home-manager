@@ -21,11 +21,12 @@ Running a home scatters information across spreadsheets, paper folders and separ
 
 - **Application:** Next.js 16 (App Router), React 19 and TypeScript
 - **Data:** PostgreSQL and Prisma
+- **Authentication:** Better Auth
 - **Validation:** Zod and React Hook Form
 - **UI:** Tailwind CSS, shadcn/ui and Recharts
 - **Quality:** ESLint, Prettier, Vitest, Playwright and GitHub Actions
 
-Authentication and document storage are still being evaluated. The reasons behind each choice are recorded in the [Architecture Decision Records](docs/adr/README.md), and the [architecture overview](docs/architecture.md) shows how the parts fit together.
+Document storage is still being evaluated. The reasons behind each choice are recorded in the [Architecture Decision Records](docs/adr/README.md), and the [architecture overview](docs/architecture.md) shows how the parts fit together.
 
 ## Getting started
 
